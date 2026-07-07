@@ -1,4 +1,4 @@
-# MCP Demo – Centroid Team Presentation
+# MCP Demo – Team Presentation
 
 ## Overview
 
